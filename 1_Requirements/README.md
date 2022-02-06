@@ -11,7 +11,9 @@ Employee Management system is an application that enables users to create and st
 * Allow the user to exit from the application
 
 ## Low Level Requirements
-
+* This application will ask the user to make a choice between 1 to 4 (choices : 1.add record 2.delete record 3.modify record 4.exit)
+* Allow user to enter any information of the employee such as name,ID,age,salary for delete or modifing the employee record
+   
 ## Swot
 
 ## 4W's & 1H
