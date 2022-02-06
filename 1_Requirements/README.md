@@ -17,3 +17,22 @@ Employee Management system is an application that enables users to create and st
 ## Swot
 
 ## 4W's & 1H
+Who:
+
+* All the organisation who has lot’s of employee in their different units and their different services.
+
+What:
+
+* Earlier Many Companies were inefficient due to prolonged time for entering N numbers of employee records manually. • This project gives the opportunity to enter all the required information and deploy into the system easily
+
+When:
+
+* As the business of the organisation increases number of employees increases . • With the increases of employee their data management require.
+
+Where:
+
+* This problem is surfaced in all the organisation in the world.
+
+How:
+
+* This project takes in all the input values and yields out the management parameters.
