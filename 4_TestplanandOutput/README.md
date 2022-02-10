@@ -2,7 +2,7 @@
 
 | TEST ID  |  TEST CASE OBJECTIVE  | INPUT DATA        | EXPECTED OUTPUT  | ACTUAL OUTPUT  | STATUS |
 |----------|-----------------------|-------------------|------------------|----------------|--------|
-|   TC_01  |   for entering Id     | enter ID: 01      |   01             |   01           |  PASS  |       
+|   TC_01  |   for entering Id     | enter Id: 01      |   01             |   01           |  PASS  |       
 |   TC_02  |   for entering name   | enter name: abc   |   abc            |   abc          |  PASS  |     
 |   TC_03  |   for entering age    | enter age: 12     |   12             |   12           |  PASS  |         
 |   TC_04  |   for entering salary | enter salary: 5000|   5000           |   5000         |  PASS  |     
