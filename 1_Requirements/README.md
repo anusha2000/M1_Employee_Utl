@@ -3,16 +3,25 @@ Employee Management system is an application that enables users to create and st
 
 # Requirements
 
-## High Level Requirements
-* This application allow user to choose the option between 1 to 4
-* Allow the user to add the record of new employee
-* Allow the user to delete the record of employee
-* Allow the user to modify the record of employee
-* Allow the user to exit from the application
+## High Level Requirement
+| ID | Description | Status |
+|----|-------------|--------|
+|HLR1 | This application allow user to choose the option between 1 to 6 | Implemented|
+|HLR2 | Allow the user to add the record of new employee | Implemented|
+|HLR3 | Allow the user to delete the record of employee | Implemented|
+|HLR4 | Allow the user to search the record of employee | Implemented|
+|HLR5 |  Allow the user to display the list of the of employees | Implemented|
+|HLR6 | Allow the user to modify the employees record | Implemented|
+|HLR7 | Allow the user to exit from the application | Implemented|
 
 ## Low Level Requirements
-* This application will ask the user to make a choice between 1 to 4 (choices : 1.add record 2.delete record 3.modify record 4.exit)
-* Allow user to enter any information of the employee such as name,ID,age,salary for delete or modifing the employee record
+| ID | Description | Status |
+|----|-------------|--------|
+|LLR1 |This application will ask the user to make a choice between 1 to 6(choices : 1.Add record 2.Delete record 3.Search record 4.Display list 5.Modify record 6.Exit)|Implemented|
+|LLR2|Application ask the user employee ID (for Deleting)|Implemented|
+|LLR3|Application ask the user employee ID (for searching)|Implemented|
+|LLR4|Application ask the user employee ID (for Modifying)|Implemented|
+|LLR5|The user can exit from application by choosing 6|Implemented|
    
 ## Swot Analysis
 ### Strenghths
