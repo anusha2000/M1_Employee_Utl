@@ -15,13 +15,18 @@ Employee Management system is an application that enables users to create and st
 |HLR7 | Allow the user to exit from the application | Implemented|
 
 ## Low Level Requirements
-| ID | Description | Status |
-|----|-------------|--------|
-|LLR1 |This application will ask the user to make a choice between 1 to 6(choices : 1.Add record 2.Delete record 3.Search record 4.Display list 5.Modify record 6.Exit)|Implemented|
-|LLR2|Application ask the user employee ID (for Deleting)|Implemented|
-|LLR3|Application ask the user employee ID (for searching)|Implemented|
-|LLR4|Application ask the user employee ID (for Modifying)|Implemented|
-|LLR5|The user can exit from application by choosing 6|Implemented|
+| HLID |LLID | Description | Status |
+|----  |-----|--------|--------|
+|HLR1 |LLR1 |This application will ask the user to make a choice between 1 to 6)|Implemented|
+|     |     |Choices :1. Add record |    |
+|     |     |         2.Delete record |    |
+|     |     |         3.Search record |    |
+|     |     |         4.Display record |    |
+|     |     |         5.Modify record |    |
+|HLR3 |LLR2|Application ask the user employee ID (for Deleting)|Implemented|
+|HLR4|LLR3|Application ask the user employee ID (for searching)|Implemented|
+|HLR6|LLR4|Application ask the user employee ID (for Modifying)|Implemented|
+|HLR7|LLR5|The user can exit from application by choosing 6|Implemented|
    
 ## Swot Analysis
 ### Strenghths
