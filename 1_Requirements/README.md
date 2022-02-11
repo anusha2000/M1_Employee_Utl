@@ -29,7 +29,7 @@ Employee Management system is an application that enables users to create and st
 |HLR7|LLR5|The user can exit from application by choosing 6|Implemented|
    
 ## Swot Analysis
-
+![SWOT](https://user-images.githubusercontent.com/47153476/153540298-496790e6-59ef-4eda-8ed7-f5b2a861406b.PNG)
 
 ## 4W's & 1H
 Who:
