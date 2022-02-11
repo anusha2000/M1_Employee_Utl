@@ -29,21 +29,7 @@ Employee Management system is an application that enables users to create and st
 |HLR7|LLR5|The user can exit from application by choosing 6|Implemented|
    
 ## Swot Analysis
-### Strenghths
-* Work experience
-* Quick to responce to the changes
 
-### Weaknesses
-*  Weak interpersonal skills
-*  High existing work load
-
-### Threats
-*  Training obstacles
-*  High cose of technology investment
-
-### Opportunities
-*  Utilizing skills in different ways
-*  High demand service offered
 
 ## 4W's & 1H
 Who:
