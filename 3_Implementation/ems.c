@@ -21,6 +21,11 @@ struct employee
 };
 struct employee e[100];
 int key=0;
+
+/**
+ * @brief Add or insert the record of the new employee
+ * 
+ */
 void addrecord()
  {
      char another='y';
@@ -40,6 +45,11 @@ void addrecord()
          scanf("%c",&another);
      }
  }
+
+ /**
+  * @brief Displaying the list of the employee details
+  * 
+  */
 void displayrecord()
  {
      int i;
@@ -49,6 +59,11 @@ void displayrecord()
           printf("\n%d\t\t %s\t\t %d\t\t %f\n",e[i].id,e[i].name,e[i].age,e[i].salary);
      }
 }
+
+/**
+ * @brief Search the details of the employees based on their ID
+ * 
+ */
 void searchrecord()
 {
     int i,id,flag=0;
@@ -67,6 +82,11 @@ void searchrecord()
     else
         printf("Record not found\n");
 }
+
+/**
+ * @brief Delete the recording ofthe existing employee record
+ * 
+ */
 void deleterecord()
 {
     int i,id;
@@ -86,6 +106,11 @@ void deleterecord()
     printf("\n Deleted\n");
     key=key-1;
 }
+
+/**
+ * @brief Modify the details of the employees based on their
+ * 
+ */
 void modifyrecord()
 {
     int i,id;
