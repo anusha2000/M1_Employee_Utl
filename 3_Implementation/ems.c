@@ -1,6 +1,16 @@
+/**
+ * @file ems.c
+ * @author your name (you@domain.com)
+ * @brief Employee record management 
+ * @version 0.1
+ * @date 2022-02-12
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
-#include<conio.h>
 #include<string.h>
 struct employee
 {
