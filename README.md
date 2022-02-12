@@ -4,6 +4,7 @@
 ## Code grade 
 ![Code grade](https://api.codiga.io/project/31087/status/svg)
 ## Code quality
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6be91c66d3034ec8878b06d4328528fc)](https://app.codacy.com/gh/anusha2000/M1_Employee_Utl?utm_source=github.com&utm_medium=referral&utm_content=anusha2000/M1_Employee_Utl&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/adaa7cd78edf439dba8d5a20ade49f8f)](https://www.codacy.com/gh/anusha2000/M1_Employee_Utl/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=anusha2000/M1_Employee_Utl&amp;utm_campaign=Badge_Grade)
 # M1_Employee_Utl
 Repository of Employee management system project
